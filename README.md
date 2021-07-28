@@ -1,2 +1,19 @@
-# ProyectodeVue.js
-Esta aplicacion de Vue.js permite ver las tareas asignadas a un usuario, editarlas y eliminarlas
+# formulario-1
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
